@@ -6,6 +6,6 @@ Estudante do Instituto Federal do Mato Grosso do Sul
 
 Concluindo o ensino médio técnico em informática no IFMS
 
-# Passa-tempos
+# Coisas que gosto de fazer
 
 Ler, pintar e jogar
