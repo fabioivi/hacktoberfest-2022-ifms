@@ -5,3 +5,7 @@ Estudante do Instituto Federal do Mato Grosso do Sul
 # Formação
 
 Concluindo o ensino médio técnico em informática no IFMS
+
+# Passa-tempos
+
+Ler, pintar e jogar
