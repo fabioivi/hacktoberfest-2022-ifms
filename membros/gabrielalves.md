@@ -8,4 +8,4 @@ Estou concluindo o ensino médio com curso técnico em informático intregado no
 
 # Jogos Mais Jogados
 
-Genshin Impact, Nier Automata e League of legends.
+Genshin Impact, Nier Automata e League of legends
