@@ -49,3 +49,9 @@ Site feito com FrameWork Nodejs e Bootstrap: https://github.com/Edivaldo2004/Sit
 ......        ...................      ........
 .......                               .........
 ...................        ....................
+
+
+<img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" width="100px">
+<img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="100px">
+<img src="https://img.icons8.com/fluency/344/javascript.png 2x" width="100px">
+<img src="https://image.shutterstock.com/image-vector/node-vector-logo-backend-programming-600w-1597753591.jpg" width="100px">
