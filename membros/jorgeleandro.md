@@ -1,8 +1,9 @@
 |-----------------------------------------------------------------|
 | # Dados                                                         |
-| Aluno: Jorge Leandro Lima Carvalho                              |
+| Aluno: Jorge Leandro Lima Carvalho :)                           |
 | Info 6                                                          |
-| # HACKTOBERFEST                                                 |
+| # HACKTOBERFEST 2022                                            |
 |                                                                 |                                                    
 |-----------------------------------------------------------------|
+
 
