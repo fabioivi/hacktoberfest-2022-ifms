@@ -1,6 +1,6 @@
 # Edivaldo José dos Santos Junior
 
-Sou aluna do 6º semestre(3º ano do ensino médio) do Instituto federal de Mato Grosso do Sul, no curso integrado em técnico de Informática. 
+Sou aluno do 6º semestre(3º ano do ensino médio) do Instituto federal de Mato Grosso do Sul, no curso integrado em técnico de Informática. 
 
 # Formação
 
